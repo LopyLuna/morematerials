@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mmt:pearl_ore"
+  },
+  "result": "mmt:pearl",
+  "experience": 1.0,
+  "cookingtime": 100
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "mmt:ruby_block",
+    "mmt:ruby_ore",
+    "mmt:sapphire_block",
+    "mmt:sapphire_ore",
+    "mmt:topaz_block",
+    "mmt:topaz_ore",
+    "mmt:turquoise_block",
+    "mmt:turquoise_ore",
+    "mmt:pearl_block",
+    "mmt:pearl_ore"
+
+  ]
+}

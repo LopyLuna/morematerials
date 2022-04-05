@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mmt:turquoise_ore"
+  },
+  "result": "mmt:turquoise",
+  "experience": 1.0,
+  "cookingtime": 200
+}

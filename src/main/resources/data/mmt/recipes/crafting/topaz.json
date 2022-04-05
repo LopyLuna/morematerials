@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "mmt:topaz_block"
+        }
+    },
+    "result": {
+        "item": "mmt:topaz",
+        "count": 9
+    }
+}

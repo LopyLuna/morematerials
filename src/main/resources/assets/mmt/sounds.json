@@ -1,0 +1,13 @@
+{
+  "block_break": {"subtitle": "mmt.block_break", "sounds": ["mmt:block/break"]},
+  "block_step": {"subtitle": "mmt.block_step", "sounds": ["mmt:block/step"]},
+  "block_place": {"subtitle": "mmt.block_place", "sounds": ["mmt:block/place"]},
+  "block_hit": {"subtitle": "mmt.block_hit", "sounds": ["mmt:block/step"]},
+  "block_fall": {"subtitle": "mmt.block_fall", "sounds": ["mmt:block/step"]},
+
+  "pearl_break": {"subtitle": "mmt.pearl_break", "sounds": ["mmt:pearl_ore/break"]},
+  "pearl_step": {"subtitle": "mmt.pearl_step", "sounds": ["mmt:pearl_ore/step"]},
+  "pearl_place": {"subtitle": "mmt.pearl_place", "sounds": ["mmt:pearl_ore/place"]},
+  "pearl_hit": {"subtitle": "mmt.pearl_hit", "sounds": ["mmt:pearl_ore/dig"]},
+  "pearl_fall": {"subtitle": "mmt.pearl_fall", "sounds": ["mmt:pearl_ore/step"]}
+}
