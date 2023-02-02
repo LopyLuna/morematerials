@@ -1,0 +1,29 @@
+Ported to 1.19.2
+
+
+
+- Added -
++ New Ingots
++ New Gears
++ New Rods
++ New Wires
++ New Plates
++ New Storage Blocks
++ New Gems
++ New Gem Cells
++ Raw Blocks / Raw Ore "Not fully finished"
+
+ 
+
+- Fixed -
++ Some blocks not breaking properly with the right tool
++ Many many Recipes...
++ Some Translation were missing
++ Some Tags were missing
+
+ 
+
+- Changed -
++ Many Texture Updates
+- Removed Some Blocks "Moved to a different mod that haven't been released yet"
+https://media.discordapp.net/attachments/966896677694881792/1069376336285667399/image.png?width=632&height=565
